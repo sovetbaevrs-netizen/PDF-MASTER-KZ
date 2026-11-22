@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+# Runtime and user files
+*.log
+*.autosave.json
+*.manualrotator.autosave.json
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!preview_5_2.png
+# Build output
+build/
+dist/
+*.spec
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
