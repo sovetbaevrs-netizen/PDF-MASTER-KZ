@@ -5,7 +5,7 @@ title PDF MASTER KZ - Build EXE with custom icon
 
 echo ============================================
 echo  PDF MASTER KZ - EXE BUILDER WITH ICON
-echo ============================================
+ echo ============================================
 if not exist "PDF_MASTER_KZ.py" (
   echo [ERROR] PDF_MASTER_KZ.py was not found in this folder.
   pause
